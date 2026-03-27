@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1774614298 source:d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\main.cpp
+	"Clients.h"
+	"Users.h"
+
+1774459757 d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\clients.h
+	"Global.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1774459740 d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\global.h
+	<string>
+	<vector>
+
+1774531945 source:d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\clients\clients.cpp
+	"Clients.h"
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<cstdlib>
+
+1774459757 d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\clients\clients.h
+	"Global.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1774476459 d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\clients\global.h
+	<string>
+	<vector>
+
+1774615966 source:d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\users\users.cpp
+	"Users.h"
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1774615966 d:\cppapp\proplemsolving\proplem\projects\bank2\bank2\users\users.h
+	"Global.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<vector>
+
