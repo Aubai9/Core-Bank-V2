@@ -27,7 +27,7 @@ The system allows administrators to manage bank clients efficiently, providing a
 
 
 ## 👨‍💻 Author
-- Aubai Mahmmoud
+- Aubai Mahmoud
 - GitHub: [https://github.com/YourGitHubUsername](https://github.com/Aubai9)
 
 
